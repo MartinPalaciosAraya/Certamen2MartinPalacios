@@ -1,0 +1,203 @@
+#avatar {
+  width: 180px;
+  height: 180px;
+  border: solid 1px;
+  padding: 30px;
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#usuario {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -170px;
+  right: -220px;
+}
+
+#nacimiento {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -170px;
+  right: -220px;
+}
+
+#edicion {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -170px;
+  right: -220px;
+}
+
+#signos {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -120px;
+  left: 20PX;
+}
+
+#recuadrosignos {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -150px;
+  width: 280px;
+  height: 280px;
+  border: solid 1px;
+  padding: 30px;
+  margin: 20px;
+}
+
+#valor1 {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-align: right;
+  top: -40px;
+}
+
+#valor2 {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-align: right;
+  top: -40px;
+}
+
+#valor3 {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-align: right;
+  top: -70px;
+}
+
+#cardiaca {
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  right: -30px;
+  top: -20px;
+}
+
+#antecedentes {
+  font-size: 22px;
+  text-align: left;
+  position: relative;
+  top: -660px;
+  margin: 40px;
+}
+
+.textoantecedentes {
+  margin-left: 400px;
+  margin-top: 200px;
+  margin-right: 300px;
+}
+
+.textoantecedentes ul li {
+  list-style: none;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  position: relative;
+  top: -680px;
+}
+
+#boton {
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  position: relative;
+  top: -50px;
+}
+
+#boton {
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  position: relative;
+  top: -50px;
+}
+
+.boton {
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  position: relative;
+  top: -50px;
+}
+
+#button {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -150px;
+  right: -220px;
+}
+
+#form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  top: -700px;
+  right: -400px;
+}
+
+#info {
+  font-size: 40px;
+}
+
+#actualizar {
+  position: relative;
+  float: left;
+  margin: 20px;
+}
+
+#datosclinicos {
+  width: 680px;
+  height: 240px;
+  border: solid 1px;
+  padding: 10px;
+  margin: 20px;
+}
+
+#fix {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+/*#crear{
+    width: 90px;
+    height: 10px;
+    border: solid 1px;
+    padding: 20px;
+	margin: 20px;
+    text-align: center;
+    display: flex;
+    position: relative;
+} */
+/*# sourceMappingURL=estilos.css.map */
